@@ -10,7 +10,7 @@ products = [
     {"id": 3, "name": "RDR", "key": "3333-3333-3333", "price": 200},
 ]
 
-account = {"balance": 0}
+account = {"id": 1, "balance": 0}
 
 router = Router()
 
